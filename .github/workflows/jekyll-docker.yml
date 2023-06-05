@@ -2,7 +2,7 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "andystarShih-patch-3" ]
   pull_request:
     branches: [ "main" ]
 
